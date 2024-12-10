@@ -1,3 +1,11 @@
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/rlfrkdms1"
+  width="400"
+  height="auto"
+/>
+</a>
+
 ## Hi there 👋
 
 <!--
