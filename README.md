@@ -8,6 +8,7 @@
 
 ## Hi there 👋
 I'm Gaeun Gil, a senior at Dongguk University
+<br>
 majoring in Mathematics and double majoring in Software Engineering. 📚💻
 
 <!--
