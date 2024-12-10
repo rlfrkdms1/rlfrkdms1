@@ -7,6 +7,8 @@
 </a>
 
 ## Hi there 👋
+I'm Gaeun Gil, a senior at Dongguk University
+majoring in Mathematics and double majoring in Software Engineering. 📚💻
 
 <!--
 **rlfrkdms1/rlfrkdms1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
